@@ -88,3 +88,7 @@ iframe {
 .nav-list a:hover {
     color: #ff99c8;
   }
+
+  .games_title h3:hover {
+    color: #a2d2ff;
+  }
